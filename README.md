@@ -5,6 +5,7 @@ following method in Matlab:
 1. Ordinary Linear Regression
 2. Regularized Linear Regression (ridge & lasso)
 3. Principal Component Analysis
+
 And become familiarized with:
 1. Bias-Variance Tradeoff
 2. Constrained regression
