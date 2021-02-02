@@ -1,5 +1,6 @@
 # Class2_Regression
 Intended Learning Outcomes of This Class
+
 At the end of this class, you will be able to understand and apply the
 following method in Matlab:
 1. Ordinary Linear Regression
